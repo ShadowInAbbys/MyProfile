@@ -44,9 +44,7 @@
 - **Cybersecurity**: Penetration testing, Secure coding, Cryptography
 
 ### 📫 Contact Me
-- Email: sohentosen@gmail.com
-- LinkedIn: [ShadowInAbbys](https://www.linkedin.com/in/shadowinabbys)
-- Twitter: [@shadowinabbys](https://twitter.com/shadowinabbys)
+- Email: [ShadowInAbbys]sohentosen@gmail.com
 
 Let's connect and make cool things together! 💻🌟
 </p>
