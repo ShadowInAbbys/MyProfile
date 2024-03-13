@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=006747&center=true&vCenter=true&lines=01100100%20+01100101%20+01101110%20+01100111%20+01100001%20+01101110%20+00100000%20+01100101%20+01101100%20+01100101%20+01101001%20+01101101%20+01101111%20+01101111%20+01101110" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF0000&center=true&vCenter=true&lines=01100100%20+01100101%20+01101110%20+01100111%20+01100001%20+01101110%20+00100000%20+01100101%20+01101100%20+01100101%20+01101001%20+01101101%20+01101111%20+01101111%20+01101110" alt="Typing Animation" />
   </a>
 </p>
 
