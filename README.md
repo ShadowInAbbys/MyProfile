@@ -28,3 +28,40 @@
   <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="50%" height="50%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="300px">
+</p>
+
+<p align="center">
+
+## Halo, Saya ShadowInAbbys! 👋
+
+Saya adalah seorang **pengembang perangkat lunak** yang tertarik dalam **keamanan siber** dan **pemrograman kreatif**. Saya memiliki cinta yang mendalam untuk **mengeksplorasi teknologi baru** dan **menghadirkan ide-ide inovatif** ke dalam kehidupan nyata melalui kode.
+
+### 💼 Pengalaman
+
+- **Pengembang Perangkat Lunak**: XYZ Company (2018 - Sekarang)
+- **Penasihat Keamanan Siber**: ABC Consultants (2015 - 2018)
+
+### 🚀 Keahlian
+
+- **Bahasa Pemrograman**: Python, JavaScript, HTML/CSS
+- **Kerangka Kerja**: Django, React, Vue.js
+- **Keamanan Siber**: Penetration testing, Secure coding, Cryptography
+
+### 🌱 Proyek Terbaru
+
+- **AwesomeApp**: Sebuah aplikasi mobile yang memungkinkan pengguna untuk berbagi rekomendasi restoran favorit mereka.
+- **SecurityToolKit**: Sebuah koleksi alat keamanan siber open-source untuk membantu organisasi melindungi data mereka.
+
+### 📫 Hubungi Saya
+
+Jangan ragu untuk menghubungi saya di:
+
+- Email: shadowinabbys@example.com
+- LinkedIn: [ShadowInAbbys](https://www.linkedin.com/in/shadowinabbys)
+- Twitter: [@shadowinabbys](https://twitter.com/shadowinabbys)
+
+Let's connect and create amazing things together! 💻🌟
+</p>
+
