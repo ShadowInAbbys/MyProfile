@@ -30,34 +30,24 @@
 
 <p align="center">
 
-## Halo, Saya ShadowInAbbys! 👋
+## Yo, Welcome Ma Child! 👋
 
-Saya adalah seorang **pengembang perangkat lunak** yang tertarik dalam **keamanan siber** dan **pemrograman kreatif**. Saya memiliki cinta yang mendalam untuk **mengeksplorasi teknologi baru** dan **menghadirkan ide-ide inovatif** ke dalam kehidupan nyata melalui kode.
+### 🚀 About Me
+- Name
+  - M.Nur Rizqi Hilwani
+  - 20 Years Age Maybe
+  - Male Of Course
 
-### 💼 Pengalaman
+### 💼 Skills
+- **Music Producers**: D&B, Dubstep, Slap house, Psytrance etc
+- **Programming Languages**: Python, JavaScript, HTML/CSS, Flutter
+- **Frameworks**: Laravel, Dart
+- **Cybersecurity**: Penetration testing, Secure coding, Cryptography
 
-- **Pengembang Perangkat Lunak**: XYZ Company (2018 - Sekarang)
-- **Penasihat Keamanan Siber**: ABC Consultants (2015 - 2018)
-
-### 🚀 Keahlian
-
-- **Bahasa Pemrograman**: Python, JavaScript, HTML/CSS
-- **Kerangka Kerja**: Django, React, Vue.js
-- **Keamanan Siber**: Penetration testing, Secure coding, Cryptography
-
-### 🌱 Proyek Terbaru
-
-- **AwesomeApp**: Sebuah aplikasi mobile yang memungkinkan pengguna untuk berbagi rekomendasi restoran favorit mereka.
-- **SecurityToolKit**: Sebuah koleksi alat keamanan siber open-source untuk membantu organisasi melindungi data mereka.
-
-### 📫 Hubungi Saya
-
-Jangan ragu untuk menghubungi saya di:
-
-- Email: shadowinabbys@example.com
+### 📫 Contact Me
+- Email: sohentosen@gmail.com
 - LinkedIn: [ShadowInAbbys](https://www.linkedin.com/in/shadowinabbys)
 - Twitter: [@shadowinabbys](https://twitter.com/shadowinabbys)
 
-Let's connect and create amazing things together! 💻🌟
+Let's connect and make cool things together! 💻🌟
 </p>
-
