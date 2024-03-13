@@ -24,4 +24,7 @@
   </a>
 </p>
 
-![Hacker GIF](https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif)
+<p align="center">
+  <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" alt="Hacker GIF" style="width: 50%;" />
+</p>
+
