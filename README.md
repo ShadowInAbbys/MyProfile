@@ -18,28 +18,8 @@
   </p>
 </p>
 
-<p align="center" id="typing-text"></p>
-
-<script>
-  // Daftar karakter yang digunakan dalam "kode biner"
-  var characters = '01';
-  var typingText = document.getElementById('typing-text');
-  var delay = 50; // Penundaan antara penambahan karakter (dalam milidetik)
-  var text = '01100100 01100101 01101110 01100111 01100001 01101110 00100000 01100101 01101100 01100101 01101001 01101101 01101111 01101111 01101110'; // Teks "kode biner" yang akan ditampilkan
-
-  // Fungsi untuk menampilkan teks dengan efek mengetik
-  function typeText(text, index) {
-    if (index < text.length) {
-      typingText.textContent += text.charAt(index);
-      setTimeout(function() {
-        typeText(text, index + 1);
-      }, delay);
-    }
-  }
-
-  // Memanggil fungsi untuk memulai efek mengetik
-  typeText(text, 0);
-</script>
-
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=006747&center=true&vCenter=true&lines=01100100%20+01100101%20+01101110%20+01100111%20+01100001%20+01101110%20+00100000%20+01100101%20+01101100%20+01100101%20+01101001%20+01101101%20+01101111%20+01101111%20+01101110" alt="Typing Animation" />
+  </a>
+</p>
