@@ -23,3 +23,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=006747&center=true&vCenter=true&lines=01100100%20+01100101%20+01101110%20+01100111%20+01100001%20+01101110%20+00100000%20+01100101%20+01101100%20+01100101%20+01101001%20+01101101%20+01101111%20+01101111%20+01101110" alt="Typing Animation" />
   </a>
 </p>
+
+<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">via GIPHY</a></p>
