@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <h3>様々な能力は秘密にされている</h3>
+  <h3 align="center">様々な能力は秘密にされている</h3>
   VARIOUS ABILITIES ARE CONFIDENTIAL
   <p align="center">
     <em>A Haunting Event</em> <br>
