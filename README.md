@@ -18,23 +18,12 @@
   </p>
 </p>
 
-<p align="center" id="binary-text">01100100 01100101 01101110 01100111 01100001 01101110 00100000 01100101 01101100 01100101 01101001 01101101 01101111 01101111 01101110</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=006747&center=true&vCenter=true&lines=01100100%20+01100101%20+01101110%20+01100111%20+01100001%20+01101110%20+00100000%20+01100101%20+01101100%20+01100101%20+01101001%20+01101101%20+01101111%20+01101111%20+01101110" alt="Typing Animation" />
+  </a>
+</p>
 
-<style>
-  @keyframes typing {
-    0% { width: 0; }
-    100% { width: 100%; }
-  }
-
-  #binary-text {
-    font-family: monospace;
-    font-size: 24px;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid;
-    animation: typing 10s steps(20) infinite alternate;
-  }
-</style>
 
 
 
