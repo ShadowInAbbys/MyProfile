@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=SIA&color=red" alt="Visitor Counter"/>
 </p>
 
-<p align="center">
+
   <h1 align="center">様々な能力は秘密にされている</h1>
   <h3 align="center">VARIOUS ABILITIES ARE CONFIDENTIAL</h3
   <p align="center">
     <em>A Haunting Event</em> <br>
     <strong>Humans Are Animals That Can Bargain</strong>
   </p>
-</p>
+
 
 
 <p align="center">
