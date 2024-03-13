@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  # 様々な能力は秘密にされている
+  <h1>様々な能力は秘密にされている</h1>
   <br>
   VARIOUS ABILITIES ARE CONFIDENTIAL
   <p align="center">
