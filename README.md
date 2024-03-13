@@ -1,5 +1,5 @@
 # Welcome!!!
 
 <p align="center">
-  <img src="[https://github.com/ShadowInAbbys/ShadowInAbbys/blob/main/assets/header.gif](https://img1.picmix.com/output/pic/normal/9/7/0/9/11119079_8f909.gif)https://img1.picmix.com/output/pic/normal/9/7/0/9/11119079_8f909.gif" alt="header" />
+  <img src="![image](https://github.com/ShadowInAbbys/SIA/assets/153761139/5e32f27b-2cf2-467e-9a27-a8639b13e1a4)" alt="header" />
 </p>
