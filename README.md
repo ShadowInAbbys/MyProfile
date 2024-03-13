@@ -33,10 +33,9 @@
 ## Yo, Welcome Ma Child! 👋
 
 ### 🚀 About Me
-- Name
-  - M.Nur Rizqi Hilwani
-  - 20 Years Age Maybe
-  - Male Of Course
+- M.Nur Rizqi Hilwani
+- 20 Years Age Maybe
+- Male Of Course
 
 ### 💼 Skills
 - **Music Producers**: D&B, Dubstep, Slap house, Psytrance etc
