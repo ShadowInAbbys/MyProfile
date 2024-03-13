@@ -12,6 +12,10 @@
   さまざまな能力は秘密です
   VARIOUS ABILITIES ARE CONFIDENTIAL
   <p>
-    >_A Haunting Event_
+    <em>A Haunting Event</em>
+    <strong>Humans Are Animals That Can Bargain</strong>
   </p>
 </p>
+
+
+
