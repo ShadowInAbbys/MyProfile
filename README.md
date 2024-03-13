@@ -10,7 +10,7 @@
 
 
   <h1 align="center">様々な能力は秘密にされている</h1>
-  <h3 align="center">VARIOUS ABILITIES ARE CONFIDENTIAL</h3
+  <h3 align="center">VARIOUS ABILITIES ARE CONFIDENTIAL</h3>
   <p align="center">
     <em>A Haunting Event</em> <br>
     <strong>Humans Are Animals That Can Bargain</strong>
