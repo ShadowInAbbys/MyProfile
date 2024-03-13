@@ -1,6 +1,7 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=006747&lines=%F0%9F%91%BE+WELCOME+TO+MY+WORLD+%F0%9F%91%BE;%F0%9F%92%80+EXPLORE+WITH+ME+%F0%9F%92%80)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=006747&center=true&vCenter=true&lines=%F0%9F%91%BE+WELCOME+TO+MY+PROFILE+%F0%9F%91%BE;%F0%9F%92%BB+EXPLORING+THE+WORLD+OF+CODE+%F0%9F%92%BB" alt="Typing Animation" />
+  </a>
 </p>
 
 <p align="center">
