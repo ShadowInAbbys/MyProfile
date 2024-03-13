@@ -9,14 +9,15 @@
 </p>
 
 <p align="center">
-  様々な能力は秘密にされている
- <br>
+  # 様々な能力は秘密にされている
+  <br>
   VARIOUS ABILITIES ARE CONFIDENTIAL
   <p align="center">
     <em>A Haunting Event</em> <br>
     <strong>Humans Are Animals That Can Bargain</strong>
   </p>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
