@@ -25,6 +25,6 @@
 </p>
 
 <p>
-  ![Hacker GIF](https://github.com/ShadowInAbbys/SIA/raw/main/Asset/Gif/code.gif)
+  ![Hacker GIF](Asset/Gif/code.gif)
 </p>
 
