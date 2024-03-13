@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  **さまざまな能力は秘密です** <br>
+  さまざまな能力は秘密です <br>
   VARIOUS ABILITIES ARE CONFIDENTIAL
-  <p>
+  <p align="center">
     <em>A Haunting Event</em> <br>
     <strong>Humans Are Animals That Can Bargain</strong>
   </p>
