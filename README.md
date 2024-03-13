@@ -25,10 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="50%" height="50%">
-</p>
-
-<p align="center">
   <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="300px">
 </p>
 
