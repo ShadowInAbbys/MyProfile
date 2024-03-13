@@ -38,13 +38,13 @@
 - Male Of Course
 
 ### 💼 Skills
-- **Music Producers**: D&B, Dubstep, Slap house, Psytrance etc
-- **Programming Languages**: Python, JavaScript, HTML/CSS, Flutter
-- **Frameworks**: Laravel, Dart
-- **Cybersecurity**: Penetration testing, Secure coding, Cryptography
+- **Music Producers** : D&B, Dubstep, Slap house, Psytrance etc
+- **Programming Languages** : Python, JavaScript, HTML/CSS, Flutter
+- **Frameworks** : Laravel, Dart
+- **Cybersecurity** : Penetration testing, Secure coding, Cryptography
 
 ### 📫 Contact Me
-- Email: [ShadowInAbbys]sohentosen@gmail.com
+- Email : sohentosen@gmail.com
 
 Let's connect and make cool things together! 💻🌟
 </p>
