@@ -1,16 +1,2 @@
-# Welcome My Child
-
-## Tentang Saya
----------------
-
-## Keahlian
----------------
-
-## Proyek Terbaru
----------------
-
-## Artikel Terbaru
----------------
-
-## Temukan Saya
----------------
+- **Pengunjung Github**  
+       ![👾uknow👾](https://komarev.com/ghpvc/?username=SIA&color=red)
